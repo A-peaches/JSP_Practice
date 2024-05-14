@@ -1,0 +1,30 @@
+@charset "EUC-KR";
+
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang&display=swap');
+.gowun-batang-regular {
+  font-family: "Gowun Batang", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+* {
+	font-family : "Gowun Batang";
+	text-align : center;
+}
+
+table {
+	border-collapse: collapse;
+	margin:auto; 
+}
+
+.h1 {
+    font-weight: bold; /* 폰트 두께 */
+    font-size: 2.5em; /* 폰트 크기 */
+    margin-top: 20px; /* 위쪽 마진 */
+    margin-bottom: 20px; /* 아래쪽 마진 */
+    color: navy; /* 글자 색상 */
+}
+/* 
+input {
+	box-sizing: border-box;
+}
+ */
